@@ -1,0 +1,24 @@
+{
+  "name": "ng-notification-browserify",
+  "version": "0.1.0",
+  "description": "Simple implementation of angular-ui-notification to browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arielpchara/ng-notification-browserify.git"
+  },
+  "keywords": [
+    "angular",
+    "browserify",
+    "notification"
+  ],
+  "author": "Ariel Pchara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielpchara/ng-notification-browserify/issues"
+  },
+  "homepage": "https://github.com/arielpchara/ng-notification-browserify"
+}
