@@ -18,10 +18,13 @@
   "author": {
     "name": "Ariel Pchara",
     "email": "ariel@pchara.com"
-},
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arielpchara/ng-notification-browserify/issues"
   },
-  "homepage": "https://github.com/arielpchara/ng-notification-browserify"
+  "homepage": "https://github.com/arielpchara/ng-notification-browserify",
+  "dependencies": {
+    "ng-notification": "0.0.4"
+  }
 }
