@@ -1,6 +1,6 @@
 {
   "name": "ng-notification-browserify",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Simple implementation of ng-notification to browserify",
   "main": "index.js",
   "scripts": {
